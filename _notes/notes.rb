@@ -1,0 +1,1 @@
+# Ch 5 has some good info about pitfalls, sketches, magic commands
